@@ -31,7 +31,7 @@ All the above features have a set of customization options that are accessible v
 
 An example of what this looks like in the Inspector:
 
-![enter image description here](https://i.imgur.com/pynfxKm.png =350x)
+![enter image description here](https://i.imgur.com/pynfxKm.png)
 
 ## Implementation details
 
@@ -44,17 +44,21 @@ I list the features below in the order they were implemented. For each, I includ
 **Validation test**
 
 ![enter image description here](https://s11.gifyu.com/images/ScHlB.gif)
+
 *A very rudimentary beginning, but the gradient below the water's surface lets us know that we're on the right track.*
 
 ![enter image description here](https://s11.gifyu.com/images/ScHQL.gif)
+
 *Demonstrating customization of water color at various depths*
 
 **Shader progress**
 
 ![Depth subgraph](https://i.imgur.com/WyPXp2r.png)
+
 *Depth subgraph*
 
 ![enter image description here](https://i.imgur.com/24OsVFw.png)
+
 *Main shader: Depth & color*
 
 ### Refraction
@@ -62,17 +66,21 @@ I list the features below in the order they were implemented. For each, I includ
 **Validation test**
 
 ![enter image description here](https://s12.gifyu.com/images/ScHcW.gif)
+
 *Demonstrating refraction effect as well as its customization (through strength, scale, speed adjustments)*
 
 **Shader progress**
 
 ![enter image description here](https://i.imgur.com/DchwKbk.png)
+
 *Main shader: Refraction*
 
 ![enter image description here](https://i.imgur.com/hagplOd.png)
+
 *Overall shader (with newly implemented refraction)*
 
 ![enter image description here](https://i.imgur.com/DSh8r92.png)
+
 *Movement subgraph (for simulating a movement effect in the water)*
 
 ### Foam
@@ -80,20 +88,25 @@ I list the features below in the order they were implemented. For each, I includ
 **Validation test**
 
 ![enter image description here](https://s11.gifyu.com/images/ScHcj.gif)
+
 *Foam appearance*
 
 ![enter image description here](https://s11.gifyu.com/images/ScHRH.gif)
+
 *Foam customization (pt. 1): Strength & cutoff*
 
 ![enter image description here](https://s12.gifyu.com/images/ScH6e.gif)
+
 *Foam customization (pt. 2): Speed, scale, & color*
 
 **Shader progress**
 
 ![enter image description here](https://i.imgur.com/DmjpsFU.png)
+
 *Main shader: Foam*
 
 ![enter image description here](https://i.imgur.com/3cQWUU4.png)
+
 *Overall shader (with newly implemented foam)*
 
 ### Waves
