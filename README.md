@@ -1,6 +1,6 @@
 # Procedural water shader: Documentation
 
-![enter image description here](https://s11.gifyu.com/images/ScHRE.gif)
+![enter image description here](/gifs/recording-cubeswithBG.gif)
 
 A non-photorealistic procedural water shader with several customization features. Completed for UMA's technical task.
 
@@ -43,11 +43,11 @@ I list the features below in the order they were implemented. For each, I includ
 
 **Validation test**
 
-![enter image description here](https://s11.gifyu.com/images/ScHlB.gif)
+![enter image description here](/gifs/colordepth.gif)
 
 *A very rudimentary beginning, but the gradient below the water's surface lets us know that we're on the right track.*
 
-![enter image description here](https://s11.gifyu.com/images/ScHQL.gif)
+![enter image description here](/gifs/colordepth_customization.gif)
 
 *Demonstrating customization of water color at various depths*
 
@@ -65,7 +65,7 @@ I list the features below in the order they were implemented. For each, I includ
 
 **Validation test**
 
-![enter image description here](https://s12.gifyu.com/images/ScHcW.gif)
+![enter image description here](/gifs/refraction.gif)
 
 *Demonstrating refraction effect as well as its customization (through strength, scale, speed adjustments)*
 
@@ -87,15 +87,15 @@ I list the features below in the order they were implemented. For each, I includ
 
 **Validation test**
 
-![enter image description here](https://s11.gifyu.com/images/ScHcj.gif)
+![enter image description here](/gifs/trimmed-foam-v2.gif)
 
 *Foam appearance*
 
-![enter image description here](https://s11.gifyu.com/images/ScHRH.gif)
+![enter image description here](/gifs/foam-custom1.gif)
 
 *Foam customization (pt. 1): Strength & cutoff*
 
-![enter image description here](https://s12.gifyu.com/images/ScH6e.gif)
+![enter image description here](/gifs/foam-custom2.gif)
 
 *Foam customization (pt. 2): Speed, scale, & color*
 
@@ -113,7 +113,7 @@ I list the features below in the order they were implemented. For each, I includ
 
 **Validation test**
 
-![enter image description here](https://s11.gifyu.com/images/ScH6Z.gif)
+![enter image description here](/gifs/waves.gif)
 
 **Shader progress**
 
@@ -124,10 +124,11 @@ I list the features below in the order they were implemented. For each, I includ
 
 **Renders**
 
-![enter image description here](https://s11.gifyu.com/images/ScHRE.gif)
+![enter image description here](/gifs/recording-cubeswithBG.gif)
 
-![enter image description here](https://s12.gifyu.com/images/ScH7O.gif)
-![enter image description here](https://s12.gifyu.com/images/ScHIz.gif)
+![enter image description here](/gifs/watercubes_1.gif)
+
+![enter image description here](/gifs/watercubes_2.gif)
 
 **Completed shader graph**
 
