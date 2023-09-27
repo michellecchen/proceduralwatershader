@@ -2,7 +2,7 @@
 
 ![enter image description here](/gifs/recording-cubeswithBG.gif)
 
-A non-photorealistic procedural water shader with several customization features. Completed for UMA's technical task.
+A non-photorealistic procedural water shader with several customization features.
 
 Created in Unity 2021.3.18f1 using Shader Graph & modular subgraphs.
 
